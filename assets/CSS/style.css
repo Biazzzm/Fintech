@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,300&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:darkgray;
+}
+
+
+
+
+h1{
+    color: #016801;
+    font-weight: 900;
+}
+
+h2{
+
+    color: #012501;
+     ;
+}
+
+h3{
+
+    color: #012501;
+}
+
+h4{
+
+
+    color: #012501;
+}
+
+h5{
+
+    color: #012501;
+}
+
+h6{
+
+}
+
+p{
+    font-style: oblique;
+    text-align: center;
+}
+
+
+#usuario{
+    list-style: none;
+    text-align: right;
+}
+
+.esquerda{
+    text-align: left;
+}
+
+.centro{
+    text-align: center;
+}
+
+.direita{
+    text-align: right;
+}
